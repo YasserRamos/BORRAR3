@@ -1,5 +1,7 @@
 # 📌 Proyecto: Implementación de SecureStore y SQLite en Expo  
 
+📧 **Desarrollado por:** _Josue Anaya Canseco_  
+
 ## 📚 Descripción General  
 Este proyecto implementa el almacenamiento seguro de datos mediante **Expo SecureStore** y la gestión de bases de datos locales con **Expo SQLite** en una aplicación desarrollada con **React Native y Expo**. Ambas tecnologías permiten manejar información de manera eficiente y segura dentro de dispositivos móviles.  
 
@@ -32,7 +34,6 @@ async function deleteData(key) {
 
 ### 📷 Captura de Pantalla  
 ![SecureStore](./navigation_data/assets/EV-0.jpg.jpg)
-![SecureStore](./navigation_data/assets/EV-1.jpg.jpg)
 
 ---
 
@@ -100,15 +101,9 @@ function deleteData(id) {
 ```
 
 ### 📷 Captura de Pantalla  
-_(Incluir captura de pantalla de la funcionalidad de SQLite funcionando en la app.)_  
+![SecureStore](./navigation_data/assets/EV-1.jpg.jpg)
 
 ---
 
 ## 📚 Conclusión  
 Este proyecto demuestra cómo manejar datos de manera **segura y eficiente** en React Native con Expo. `SecureStore` proporciona **almacenamiento cifrado** para credenciales sensibles, mientras que `SQLite` permite **gestionar bases de datos locales** sin necesidad de conexión a internet.  
-
----
-
-📧 **Desarrollado por:** _Yasser Omar Apango Ramos_  
-📅 **Fecha:** _09/03/2025_  
-
